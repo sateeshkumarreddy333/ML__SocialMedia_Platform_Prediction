@@ -1,5 +1,3 @@
-# ML__SocialMedia_Platform_Prediction
-End-to-end Machine Learning project using Python, Scikit-learn, Pandas, and Matplotlib to predict social media platforms from viral trend data.
 <div align="center">
 
 # 🚀 Predicting Social Media Platform Using Machine Learning
@@ -150,16 +148,6 @@ ML-SocialMedia-Platform-Prediction
 
 ---
 
-# 📸 Project Screenshots
-
-> Add screenshots here after uploading.
-
-| Confusion Matrix | Model Comparison |
-|------------------|------------------|
-| 📷 | 📷 |
-
----
-
 # 📊 Future Improvements
 
 - Deep Learning Models
@@ -222,11 +210,9 @@ python social_media_prediction.py
 
 🎓 B.Tech in Artificial Intelligence
 
-📧 Email: *your-email@example.com*
+📧 Email: *sateeshkumarreddy69@gmail.com*
 
-🔗 LinkedIn: *Add your LinkedIn Profile*
-
-🌐 GitHub: *https://github.com/yourusername*
+🌐 GitHub: *https://github.com/sateeshkumarreddy333*
 
 ---
 
