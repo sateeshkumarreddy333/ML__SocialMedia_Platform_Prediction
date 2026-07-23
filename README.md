@@ -75,9 +75,7 @@ The following classification algorithms were implemented:
 - ✅ Logistic Regression
 - ✅ Support Vector Machine (SVM)
 - ✅ Decision Tree
-- ✅ Random Forest
 - ✅ K-Nearest Neighbors (KNN)
-- ✅ Naive Bayes
 
 ---
 
